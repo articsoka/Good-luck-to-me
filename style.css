@@ -1,0 +1,34 @@
+/* Example styling of a h1 element */
+
+ body {
+  background-color:
+ #FFFACD;
+ border: 20px solid
+ brown;
+ margin: 100px;
+ padding: 90px;
+ }
+
+ h1, h2 {
+  color: brown;
+  font-family:courier;
+ }
+
+ h3 {
+     color: #191970;
+     font-family:courier;
+ }
+
+ p, ul {
+     color: purple;
+     font-family: verdana;
+     font-size:40;
+ }
+
+
+ a  {
+    color:brown;
+    font-family:verdana;
+    font-size:40;
+    font-weight:bold;
+ }
